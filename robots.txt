@@ -1,1 +1,3 @@
-
+User-agent: *
+Allow: /
+Sitemap: https://ketrenlima.github.io/ketren-lima/sitemap.xml
